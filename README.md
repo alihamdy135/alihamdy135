@@ -5,7 +5,7 @@
 
 <p align="center">
   <b>Flutter Developer & Full Stack .NET Engineer</b><br>
-  Based in <img src="https://cdn-icons-png.flaticon.com/512/323/323301.png" width="13"/> <b>Cairo, Egypt</b>
+  Based in  <b>Cairo, Egypt</b>
 </p>
 
 <p align="center">
