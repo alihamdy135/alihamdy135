@@ -133,7 +133,7 @@
   <i>Guiding students in Arduino, circuit design, sensor integration, ROS, and OpenCV/YOLO.</i></li>
   
   <li><b>B.Sc. Computer Science (Artificial Intelligence)</b> - E-JUST (Expected 2027)<br/>
-  <i>Grade: Excellent. Focused on Deep Learning, NLP, Computer Vision, and Cybersecurity.</i></li>
+  <i>Grade: Excellent. Focused on Deep Learning, NLP, and Computer Vision.</i></li>
 </ul>
 
 ---
