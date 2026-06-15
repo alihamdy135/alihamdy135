@@ -4,12 +4,12 @@
 </h1>
 
 <p align="center">
-  <b>AI Engineer | Full Stack .NET Developer | Flutter Developer</b><br>
+  <b>AI Engineer | Full Stack Node.js Developer | Flutter Developer</b><br>
   Based in <b>Cairo, Egypt</b>
 </p>
 
 <p align="center">
-  I am a third-year CS student at E-JUST majoring in <b>Artificial Intelligence</b>. I have a diverse and deep technical background spanning <b>AI & Deep Learning</b> (PyTorch, Computer Vision, LLMs), <b>Cross-Platform Mobile Development</b> (Flutter, Dart), and <b>Backend Engineering</b> (.NET Core, FastAPI).<br>
+  I am a third-year CS student at E-JUST majoring in <b>Artificial Intelligence</b>. I have a diverse and deep technical background spanning <b>AI & Deep Learning</b> (PyTorch, Computer Vision, LLMs), <b>Cross-Platform Mobile Development</b> (Flutter, Dart), and <b>Backend Engineering</b> (Node.js, Express.js, FastAPI).<br>
   Beyond coding and building intelligent systems, I am an <b>Instructor</b> and Mentor, dedicated to teaching programming, mathematics, and robotics to the next generation.
 </p>
 
@@ -40,8 +40,8 @@
   <br>
   
   <!-- Backend & Databases -->
-  <img alt=".NET Core" src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=flat-square&logo=firebase&logoColor=black" />
@@ -113,7 +113,7 @@
     <tr>
       <td><b>E-Commerce Platform</b></td>
       <td>Full-stack electronics store platform with secure transactions and responsive design.</td>
-      <td>.NET Core, SQL, EF, HTML/CSS</td>
+      <td>Node.js, Express.js, SQL, HTML/CSS</td>
     </tr>
   </tbody>
 </table>
@@ -124,7 +124,7 @@
 
 <ul>
   <li><b>Trainee @ Digital Egypt Pioneers Initiative (DEPI)</b> (Oct 2024 - Present)<br/>
-  <i>Full-Stack .NET & Big Data Engineering trainee (200+ hours in C#, ASP.NET Core MVC, Entity Framework).</i></li>
+  <i>Full-Stack & Big Data Engineering trainee (200+ hours in Backend API design, Databases, and architecture).</i></li>
 
   <li><b>Instructor @ iSchool</b> (Sep 2024 - Oct 2024)<br/>
   <i>Taught young learners programming and math, delivering 20+ project-based lessons to build games and web apps.</i></li>
